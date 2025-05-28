@@ -58,7 +58,7 @@ fsspec==2024.6.1
     # via huggingface-hub
 greenlet==3.0.3
     # via playwright
-h11==0.14.0
+h11==0.16.0
     # via httpcore
 httpcore==1.0.5
     # via httpx
