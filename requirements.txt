@@ -44,7 +44,7 @@ click==8.1.7
     #   nltk
 colorama==0.4.6
     # via jobber (pyproject.toml)
-cryptography==43.0.0
+cryptography==44.0.1
     # via pdfminer-six
 distro==1.9.0
     # via openai
@@ -58,7 +58,7 @@ fsspec==2024.6.1
     # via huggingface-hub
 greenlet==3.0.3
     # via playwright
-h11==0.14.0
+h11==0.16.0
     # via httpcore
 httpcore==1.0.5
     # via httpx
@@ -78,7 +78,7 @@ importlib-metadata==8.4.0
     # via litellm
 iniconfig==2.0.0
     # via pytest
-jinja2==3.1.4
+jinja2==3.1.6
     # via litellm
 jiter==0.5.0
     # via openai
@@ -173,7 +173,7 @@ regex==2024.7.24
     # via
     #   nltk
     #   tiktoken
-requests==2.31.0
+requests==2.32.4
     # via
     #   agentops
     #   huggingface-hub
